@@ -5,7 +5,7 @@
 "Dashboard": "Painel",
 "Homebrew" : "Não comerciais",
 "Hotspot" : "Hotspots",
-"Repeaters" : "Repetidoras",
+"Repeaters" : "Repetidores",
 "DV4mini" : "DV4mini",
 "Full report" : "Relatorio completo",
 "Masters" : "Mestre",
@@ -14,15 +14,15 @@
 "External calls" : "Chamadas Externas",
 "Per country": "Por país",
 "Online per country": "País ativo",
-"GraphYaxis" : "Caseiro/Hotspot/Repetidoras",
+"GraphYaxis" : "Caseiro/Hotspot/Repetidores",
 "Homebrew Hotspots" : "Hotspots não comerciais",
 "DV4minis" : "DV4minis",
 "Homebrew Repeaters": "Repetidores não comerciais",
-"Industrial Repeaters":"Repetidores Industriais",
-    "Repeater models": "Repeater models",
-    "Repeater versions": "Repeater versions",
-    "PIchartDescr" : "Click the sharts of the pie to see more details",
-    "Device stats": "Device statistics"
+"Industrial Repeaters":"Repetidores Comerciais",
+    "Repeater models": "Modelos Repetidores",
+    "Repeater versions": "Versões de Repetidores",
+    "PIchartDescr" : "Clique na carta para ver mais detalhes",
+    "Device stats": "Estatiticas do dispositivo"
 },
 "LH" : {
 "LastHeard" : "Último Ouvido",
@@ -48,7 +48,7 @@
 "Extended routing": {
 "Extended routing": "Roteamento Estendido",
 "Extended Routing for DV4mini" : "Roteamento Estendido para  DV4mini",
-"User ID" : "ID do usuário",
+"User ID" : "ID do ustilizador",
 "Choose dongle" : "Escolher o dongle",
 "Mapped group" : "Grupo Mapeado",
 "Talkgroup" : "Grupo de conversação",
@@ -57,11 +57,11 @@
 "not responding" : "não respondendo",
 "Master" : "Mestre",
 "Error" : "Erro!",
-"missing dongle" : "Falta de erro dongle",
+"missing dongle" : "Falha! erro dongle",
 "error reflector" : "Erro: Não posso conectar ao refletor por favor use um grupo de conversação"
 },
 "Repeaters" : {
-"Repeaters": "Repetidoras",
+"Repeaters": "Repetidores",
 "Number" : "Número",
 "Name":"Nome",
 "Hardware":"Hardware",
@@ -69,7 +69,7 @@
 "TX":"TX",
 "RX":"RX",
 "CC":"CC",
-"Status":"Estatus",
+"Status":"Estado",
 "Master":"Mestre"
 },
 "Hotspots" : {
@@ -81,7 +81,7 @@
 "TX":"TX",
 "RX":"RX",
 "CC":"CC",
-"Status":"Estatus",
+"Status":"Estado",
 "Master":"Mestre"
 },
 "Masters" : {
@@ -90,13 +90,13 @@
 "Number":"Número",
 "Version":"Versão",
 "Links":"Links",
-"Status": "Estatus",
+"Status": "Estado",
 "List": "Lista"
 },
 "Alerts" : {
 "Alerts": "Alertas",
 "Time":"Hora",
-"Repeater":"Repetidora",
+"Repeater":"Repetidor",
 "Alarm": "Alarme",
 "Master": "Mestre"
 },
